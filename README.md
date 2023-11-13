@@ -41,6 +41,8 @@ println("Olá, sou Isabel Bermudes. -  👩🏻‍💻 ")
 <code><img height="32" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"/></code>
 <code><img height="32" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
 <code><img height="32" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></code>
+<code><img height="32" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/></code>
 <code><img height="32" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="PYTHON"/></code>
@@ -86,3 +88,4 @@ println("Olá, sou Isabel Bermudes. -  👩🏻‍💻 ")
     
 ### Entre em contato comigo!
 [![Gmail Badge](https://img.shields.io/badge/-IsabelBermudes-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabel.oliveira@sptech.school)](mailto:isabel.oliveira@sptech.school)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabel-bermudes/)
